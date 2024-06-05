@@ -1,4 +1,4 @@
-# JAVASCRIPT-Concate
+# JAVASCRIPT-Concatenate
 
 
 Couple of ways to concatenate a string:
